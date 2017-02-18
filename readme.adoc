@@ -1,0 +1,5 @@
+
+= Clojure Distilled
+
+== Introduction
+The following are code sinpets from http://yogthos.github.io/ClojureDistilled.html[Clojure Distilled]
